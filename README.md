@@ -157,9 +157,9 @@ People-Tool/
 **Disaster Risk Management Team**  
 Inter-American Development Bank (IDB)
 
-Dashboard development:
+Tool development:
 
-- Kenneth Otárola
+- Kenneth Otárola, Andrés Abarca, Ginés Suárez
 
 ---
 
